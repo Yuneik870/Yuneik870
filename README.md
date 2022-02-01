@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuneik870
+- 👋 Hi, I’m Yuneik
 - 👀 I’m interested in art and animation.
 - 🌱 I’m currently learning how to become a full stack developer.
 - 💞️ I’m looking to collaborate on ...
